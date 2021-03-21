@@ -56,7 +56,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Tools</a></li>
       </ul>
     </li>
     <li>
@@ -96,6 +96,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python](www.python.org)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Jupyter Notebook]
 
 ### Datasources
 * [King County Dataset](https://data.kingcounty.gov/)
